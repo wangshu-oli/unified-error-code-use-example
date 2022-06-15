@@ -1,8 +1,8 @@
 package oliver.unifiederrorcodeuseexample.enums;
 
 import lombok.AllArgsConstructor;
+import oliver.unifiederrorcode.enums.BusinessLineCommonCode;
 import oliver.unifiederrorcode.errorcode.BizErrorCode;
-import oliver.unifiederrorcode.errorcode.BusinessLineCommonCode;
 
 /**
  * @author Oliver
